@@ -78,4 +78,4 @@ Michael Freeman, Rep
 
 Mike Smith, Rep
 
-[Darin Durfey, Rep](darinDurfey.md)
+[Darin Durfey, Rep](profiles/darinDurfey.md)

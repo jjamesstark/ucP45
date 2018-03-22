@@ -33,6 +33,17 @@ Paul Reeb, Rep
 
 ## Provo School Board
 
+Nate Bryson	Provo 1
+
+
+Melanie Hall	Provo 2
+
+Paul R. Warner	Provo 2
+
+McKay R. Jensen	Provo 3
+
+Jennifer Partridge	Provo 4
+
 ## Utah County Offices
 
 ### Utah County Attorney
@@ -78,4 +89,4 @@ Michael Freeman, Rep
 
 Mike Smith, Rep
 
-[Darin Durfey, Rep](profiles/darinDurfey.md)
+[Darin Durfey, Rep](profiles/UCS_darinDurfey.md)

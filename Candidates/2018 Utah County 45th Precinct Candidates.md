@@ -30,11 +30,11 @@ Mary L. Warner, Rep
 Paul Reeb, Rep
 
 ## State Board of Education
+(I don't think our District has any elections this year???)
 
 ## Provo School Board
 
 Nate Bryson	Provo 1
-
 
 Melanie Hall	Provo 2
 
@@ -55,6 +55,10 @@ Chad Grunander,	Rep
 W. Andrew McCullough,	Libertarian
 
 ### Utah County Clerk/Auditor
+Bryan E. Thompson,	Rep
+Jason Christensen,	Ind American
+Amelia Powers,	Rep
+Stephen "Hemi" Hemingway,	Rep
 
 ### Utah County Commission
 

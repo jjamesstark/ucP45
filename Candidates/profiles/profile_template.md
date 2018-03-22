@@ -1,4 +1,4 @@
-# Darin Durfey Profile
+# <NAME> - <TARGET OFFICE>
 
 Campaign Website:
 Current Position:
@@ -7,7 +7,6 @@ Party Affiliation:
 ## Summary
 
 
-## In the Media
-
+## In The Media
 
 ### Sources

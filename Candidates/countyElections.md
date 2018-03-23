@@ -9,9 +9,13 @@ Chad Grunander,	Rep
 W. Andrew McCullough,	Libertarian
 
 ## Utah County Clerk/Auditor
+
 Bryan E. Thompson,	Rep
+
 Jason Christensen,	Ind American
+
 Amelia Powers,	Rep
+
 Stephen "Hemi" Hemingway,	Rep
 
 ## Utah County Commission

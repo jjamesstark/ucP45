@@ -9,6 +9,8 @@ You may submit content via github or this google form https://goo.gl/forms/Uzi8u
 
  ---
 
+ ## Quick Navigation to Content
+
 [Federal Elections](/Candidates/federalElections.md)
 
 [Utah State Elections](/Candidates/stateElections.md)
@@ -18,4 +20,5 @@ You may submit content via github or this google form https://goo.gl/forms/Uzi8u
 [Provo City Elections](/Candidates/cityElections.md)
 
 ---
-[My notes from research, conventions, and other meetings](/Candidates/js_notes)
+
+In an effort to be completely transparent, I have also including all of [my personal notes](/Candidates/js_notes) into this repo

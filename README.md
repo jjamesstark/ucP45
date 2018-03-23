@@ -4,15 +4,16 @@ This Repo is meant to supply information for a static website for the 45th preci
 We are hosting on Github to allow for contributions from the community.
 
 If you have questions, please contact Justin Stark at jstarkutahcountyp45@gmail.com
+
  ---
 
-[Federal Elections](/Candidates/profiles/federalElections.md)
+[Federal Elections](/Candidates/federalElections.md)
 
-[Utah State Elections](/Candidates/profiles/stateElections.md)
+[Utah State Elections](/Candidates/stateElections.md)
 
-[Utah County Elections](/Candidates/profiles/countyElections.md)
+[Utah County Elections](/Candidates/countyElections.md)
 
-[Provo City Elections](/Candidates/profiles/cityElections.md)
+[Provo City Elections](/Candidates/cityElections.md)
 
 ---
 [My notes from research, conventions, and other meetings](/Candidates/js_notes)

@@ -5,6 +5,8 @@ We are hosting on Github to allow for contributions from the community.
 
 If you have questions, please contact Justin Stark at jstarkutahcountyp45@gmail.com
 
+You may submit content via github or this google form https://goo.gl/forms/Uzi8uFVIDjUBVk482
+
  ---
 
 [Federal Elections](/Candidates/federalElections.md)

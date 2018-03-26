@@ -1,5 +1,4 @@
 # Utah County 45th Precinct Election Project
-![neighborhood](img/map.png)
 
 ## Mission
 1. Inform voters with locally and democratically sourced information about the elections, offices, and candidates relevant to our community.

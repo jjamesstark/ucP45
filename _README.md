@@ -15,7 +15,7 @@ We hope that this website provides valuable information about political candidat
 ### Candidate profiles
 We want to provide profiles for all candidates (federal, state, county, and city) that will be on the ballots for our precinct this fall. Again, this information is community sourced with full transparency about who is sourcing the information by using github to manage all contributions, including edits.
 
-Find Profiles and Summaries Below
+Find Profiles and Summaries Content Below
 
 [Federal Elections](/Candidates/federalElections.md)
 
@@ -28,14 +28,21 @@ Find Profiles and Summaries Below
 ### Community Questions & Comments
 In order to facilitate relevant conversation with the citizens in our community and the candidates running for public office we are attempting to facilitate this with github and google forms (for now). Not only will this make it easier for you to transparently communicate with and through our delegates, but it will allow for full transparency and hopefully reduce repetition.
 
+If relevant, please include to which candidate or public office you'd like to direct your question or comment.
+
 ##### Submitting with GitHub
 
 In order to submit questions via git all you need to do is submit an issue.
 ![github issue](img/githubIssue.png)
 
-This requires you to create a free github account if you don't already have one. If you plan on being a regular participant or contributor with this project we suggest that you go ahead and create this account. It will enable to you be notified at changes relevant to you content and the responses to the issues you create.
+This requires you to create a free github account if you don't already have one. If you plan on being a regular participant or contributor with this project we suggest that you go ahead and create this account. It will enable to you be notified about the project.
 
 ##### Submitting with Google Form
+If you'd rather not create a GitHub account you can submit comments and questions via google form. This will be automatically added to the project/repo as an issue.
+
+### Delegate Notes
+
+Justin Stark, a county delegate, will be including all of his personal notes in this repository. This notes can be found [here](https://github.com/jjamesstark/ucP45/tree/master/Candidates/js_notes)
 
 ---
 
